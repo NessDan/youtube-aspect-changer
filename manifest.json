@@ -3,7 +3,6 @@
   "name": "NessDan's YouTube Stretch-to-Fit Aspect Ratio Scaler",
   "version": "1.0",
   "description": "Scales a YouTube video up to remove horizontal black-bars.",
-  "permissions": ["activeTab", "scripting"],
   "action": {
     "default_icon": {
       "16": "icon.png",

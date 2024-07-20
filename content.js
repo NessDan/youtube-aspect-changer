@@ -11,8 +11,11 @@ window.addEventListener("load", () => {
     const btnListener = button.addEventListener("click", () => {
       const style = document.createElement("style");
       style.innerHTML = `
+        .html5-video-container {
+          height: 100% !important;
+        }
         .html5-main-video {
-          height: 100vh !important;
+          height: 100% !important;
           top: 0 !important;
         }
       `;

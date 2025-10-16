@@ -19,6 +19,9 @@ const checkAndAddControls = () => {
     button.style.float = "left";
     button.style.width = "auto";
     button.style.marginRight = "6px";
+    button.style.display = "flex";
+    button.style.alignItems = "center";
+    button.style.padding = "0 14px";
 
     button.addEventListener("click", () => {
       if (button.innerText === "Scale") {

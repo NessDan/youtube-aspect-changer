@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "NessDan's YouTube Scale-to-Fit Vertically",
-  "version": "1.3",
+  "version": "1.4",
   "description": "Scales a YouTube video up to remove horizontal black-bars.",
   "action": {
     "default_icon": {
